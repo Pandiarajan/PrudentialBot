@@ -1,0 +1,2 @@
+1. Run the NewsAgencies project
+2. New-Service -Name "PrudentialBot" -BinaryPathName C:\Users\Pandian\Documents\GitHub\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
