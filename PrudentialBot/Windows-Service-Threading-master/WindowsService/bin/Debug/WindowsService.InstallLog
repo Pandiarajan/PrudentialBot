@@ -1,0 +1,176 @@
+﻿Installing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Rolling back assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Installing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Installing service CoreProgramm1...
+Service CoreProgramm1 has been successfully installed.
+Creating EventLog source CoreProgramm1 in log Application...
+Committing assembly 'D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\JT\CoreProgramm\Blog\C#\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Creating EventLog source MyWindowsService in log Application...
+Rolling back assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Restoring event log to previous state for source MyWindowsService.
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
+Installing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Uninstalling assembly 'D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+   logfile = D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source MyWindowsService.
+Service MyWindowsService is being removed from the system...
+Service MyWindowsService was successfully removed from the system.
