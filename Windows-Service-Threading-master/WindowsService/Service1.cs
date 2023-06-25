@@ -47,7 +47,8 @@ namespace WindowsService
                 using (StreamWriter writer = new StreamWriter(path, true))
                 {
                     writer.WriteLine(string.Format("Windows Service Called on " + DateTime.Now.ToString("dd /MM/yyyy hh:mm:ss tt")));
-                    string apiData = new WebClient().DownloadString("http://localhost:5001/NewAgencies");
+                    string apiData = new WebClient().DownloadString("http://localhost:5001/NewAgencies/GetNewAgenciesData");
+                    string portfolioData = new WebClient().DownloadString("http://localhost:5001/NewAgencies/GetPortfolioData");
                     //var result = new JavaScriptSerializer().Serialize(apiData);
                     writer.WriteLine(string.Format("Data: "));
                     writer.Close();
