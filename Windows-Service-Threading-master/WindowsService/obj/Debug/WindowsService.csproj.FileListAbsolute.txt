@@ -17,3 +17,15 @@ D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\obj\Debug\Wind
 D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
 D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.exe
 D:\Learning\GenAI\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.pdb
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe.config
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.exe
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\WindowsService.pdb
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.exe
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.pdb
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\Newtonsoft.Json.dll
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\bin\Debug\Newtonsoft.Json.xml
+D:\PrudentialBot\PrudentialBot\PrudentialBot\Windows-Service-Threading-master\WindowsService\obj\Debug\WindowsService.csproj.CopyComplete
